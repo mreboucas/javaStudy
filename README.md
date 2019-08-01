@@ -1,5 +1,5 @@
 # javaStudy
-Projeto que visa o estudo do java: OO, design patterns, lambdas e estruturas complexas e diversas da linguagem java.
+Abordagem prática sobre conceitos do java: OO, design patterns, lambdas e estruturas complexas e diversas da linguagem java.
 
 <b>Classes Abstratas</b>
 
@@ -18,4 +18,6 @@ Projeto que visa o estudo do java: OO, design patterns, lambdas e estruturas com
 <b>Operador Ternário</b>
 
 <b>Acessibilidade de Objetos</b>
+
+<b>Peformance de Algorítmos</b>
 
