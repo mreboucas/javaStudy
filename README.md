@@ -1,5 +1,9 @@
 # javaStudy
-Abordagem prática sobre conceitos do java: OO, design patterns, lambdas e estruturas complexas e diversas da linguagem java.
+Abordagem prática sobre conceitos do java:
+
+<b>OO</b>
+
+<b>Lambdas</b>
 
 <b>Classes Abstratas</b>
 
